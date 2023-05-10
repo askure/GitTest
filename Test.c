@@ -4,4 +4,5 @@ int main(void){
     printf("commit 1");
     printf("crate branch");
     printf("lesson pull request");
+    int sum = 0;
 }
